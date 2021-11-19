@@ -14,7 +14,7 @@ Description: Leay Paywall Wall pro plugin to add audio/video restriction, remove
 Author: Olek S.
 Version: 1.0
 Author URI:
-Tags: paywall, restriction, audio, video, taxonomy, payment, Erphpdown
+Tags: paywall, restriction, audio, video, taxonomy, payment
 Text Domain: leaky-paywall-pro
 */
 
