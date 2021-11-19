@@ -10,11 +10,11 @@
 /*
 Plugin Name: Leaky Paywall Pro
 Plugin URI: https://zeen101.com/
-Description: Leay Paywall Wall pro plugin to add audio/video restriction, remove monthly payment and make compatibiltiy with Leaky Paywall with Erphpdown
+Description: Leay Paywall Wall pro plugin to add audio/video restriction, remove monthly payment and make compatibiltiy with Leaky Paywall
 Author: Olek S.
 Version: 1.0
-Author URI: https://bllue-portfolio.000webhostapp.com/
-Tags: paywall, restriction, audio, video, taxonomy, payment, Erphpdown
+Author URI:
+Tags: paywall, restriction, audio, video, taxonomy, payment
 Text Domain: leaky-paywall-pro
 */
 
