@@ -3,7 +3,7 @@
 /**
  * Leaky Paywall Pro plugin to add audio/video restriction functionality, remove monthly payment and make compatibiltiy with Leaky Paywall with Erphpdown
  *
- * @package Olek S.
+ * @package wpwebmaster0313
  * @since 1.0.0
  */
 
